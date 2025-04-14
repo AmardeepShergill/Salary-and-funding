@@ -68,7 +68,6 @@ The following code shows us that "Inflection Point Ventures" was the Investor th
 
 How did "Inflection Point Ventures" rank (in terms of most Company/Brands funded) in 2020? (Note: in the answer write the rank number, where 1 = most funded company)
 
-# run this cell (don not delete it)
 fnd.groupby('Investor', as_index=False).size().sort_values('size', ascending=False).head(1)
 
 

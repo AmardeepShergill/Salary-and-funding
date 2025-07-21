@@ -11,7 +11,7 @@ This project will be working with a datasets containing information of over 20k 
     the Location of the company,
     the Employment Status and
     the category of the Job Roles
-
+    
 The dataset name is Software Professionals Salary.csv and you will find it in the data folder of this repository. The data is taken from a Kaggle question to the be analysed here. The below is the steps taken in order to look into the data
 
 

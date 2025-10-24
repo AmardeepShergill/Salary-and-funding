@@ -14,7 +14,6 @@ This project will be working with a datasets containing information of over 20k 
     
 The dataset name is Software Professionals Salary.csv and you will find it in the data folder of this repository. The data is taken from a Kaggle question to the be analysed here. The below is the steps taken in order to look into the data
 
-
 First Import the necessary libraries and load the .csv file to a DataFrame named sps. Check that all columns have the correct data type.
 
 Then look at the basic questions that can be asked about the data set

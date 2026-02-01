@@ -3,6 +3,8 @@ A python test looking at a dataset set on Salaries and funding for indian compan
 
 This project will be working with a datasets containing information of over 20k Software Professionals with different variables like:
 
+
+
     the Rating of the company given by the employee,
     the Company Name,
     the Job Title of the employee,
@@ -11,6 +13,7 @@ This project will be working with a datasets containing information of over 20k 
     the Location of the company,
     the Employment Status and
     the category of the Job Roles
+
     
 The dataset name is Software Professionals Salary.csv and you will find it in the data folder of this repository. The data is taken from a Kaggle question to the be analysed here. The below is the steps taken in order to look into the data
 
